@@ -1,4 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Md. Hasibul Hasan <mdhhraj@outlook.com>
 # StorageClean v2.6.3 - mdhhraj/storageclean-package
 VERSION="2.6.3"
 RED='\u001B[0;31m'; GREEN='\u001B[0;32m'; YELLOW='\u001B[1;33m'; NC='\u001B[0m'
