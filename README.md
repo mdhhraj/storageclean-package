@@ -1,5 +1,3 @@
-cat > README.md << 'README'
-<div align="center">
 🔧 <b>StorageClean v2.6.3</b> - <i>Termux Storage Cleaner</i>
 <br><br>
 
@@ -13,4 +11,4 @@ cat > README.md << 'README'
 
 ## 🚀 Install & Run (1 Command)
 ```bash
-curl -sL https://raw.githubusercontent.com/mdhhraj/storageclean-package/main/StorageClean.sh | bash
+curl -sL https://raw.githubusercontent.com/mdhhraj/storageclean-package/main/StorageCl
