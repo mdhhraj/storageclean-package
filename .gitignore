@@ -1,0 +1,6 @@
+# Ignore everything except package files
+*
+!StorageClean.sh
+!manifest.json
+!storageclean_1.0.0_all.deb
+!.gitignore

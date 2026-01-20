@@ -1,0 +1,13 @@
+{
+  "control": {
+    "Package": "storageclean",
+    "Version": "2.0", 
+    "Architecture": "all",
+    "Maintainer": "TermuxUser <you@termux>",
+    "Description": "StorageClean - Powerful Android/Termux cleanup tool"
+  },
+  "installation_prefix": "/data/data/com.termux/files/usr",
+  "files": {
+    "StorageClean.sh": "bin/StorageClean"
+  }
+}
